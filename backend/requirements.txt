@@ -5,3 +5,5 @@ joblib
 motor
 pymongo
 shap
+scikit-learn
+xgboost
